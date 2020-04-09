@@ -1,3 +1,2 @@
 # hello-world
-Hi Humans!
-testing 1
+Hi Humans
